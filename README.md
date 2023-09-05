@@ -1,1 +1,1 @@
-# Laminate-Composite-and-Functionaly-Graded-Materials
+# Laminated-Composite-and-Functionally-Graded-Materials
